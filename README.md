@@ -45,3 +45,13 @@ Note the same options used as above. The options are only necessary if the Rscri
 
 Unfortunately, users cannot install new packages into a running container. But a new image can be created with the necessary packages. For new packages, please submit an issue or contact the BioCM.
 
+### New in 1.1.3
+
+The following packages were installed in v1.1.3
+- InferCNV
+
+### New in 1.1.2
+
+The following packages were installed in v1.1.2:
+- SCEVAN
+- copykat
